@@ -5,8 +5,8 @@ This project focuses on determining the fish species based off of the length, wi
 
 ## Author
 
-Name : Niravkumar Parmar
-Student Id : 100855270
+Name : Vrajkumar Malvi
+Student Id : 100848248
 Subject : 2004 - AI in Enterprise
 Course : Lab Assignment 4
 
